@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "name": "Wentylacja",
+    "parentId": null,
+    "isActive": true,
+    "image": null
+  },
+  {
+    "id": 2,
+    "name": "Kominy",
+    "parentId": null,
+    "isActive": true,
+    "image": null
+  },
+  {
+    "id": 3,
+    "name": "Ogrzewanie",
+    "parentId": null,
+    "isActive": true,
+    "image": null
+  },
+  {
+    "id": 4,
+    "name": "Rekuperacja",
+    "parentId": null,
+    "isActive": true,
+    "image": null
+  },
+  {
+    "id": 5,
+    "name": "Dystrybucja Prądu",
+    "parentId": null,
+    "isActive": true,
+    "image": null
+  },
+  {
+    "id": 6,
+    "name": "Wentylatory kuchenne",
+    "parentId": 1,
+    "isActive": true,
+    "image": "/images/categories/wentylatory-kuchenne.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Wentylatory kanałowe",
+    "parentId": 1,
+    "isActive": true,
+    "image": "/images/categories/wentylatory-kanalowe.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kratki i anemostaty",
+    "parentId": 1,
+    "isActive": true,
+    "image": "/images/categories/kratki.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Przewody wentylacyjne",
+    "parentId": 1,
+    "isActive": true,
+    "image": "/images/categories/przewody.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Wentylatory dachowe",
+    "parentId": 1,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 11,
+    "name": "Wentylatory ścienne",
+    "parentId": 1,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 12,
+    "name": "Akcesoria montażowe",
+    "parentId": 1,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 13,
+    "name": "Tłumiki akustyczne",
+    "parentId": 1,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 14,
+    "name": "Kominy jednościenne",
+    "parentId": 2,
+    "isActive": true,
+    "image": "/images/categories/kominy-jednoscienne.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Kominy dwuścienne",
+    "parentId": 2,
+    "isActive": true,
+    "image": "/images/categories/kominy-dwuscienne.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Kominy ceramiczne",
+    "parentId": 2,
+    "isActive": true,
+    "image": "/images/categories/kominy-ceramiczne.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Kominy współosiowe",
+    "parentId": 2,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 18,
+    "name": "Nasady kominowe",
+    "parentId": 2,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 19,
+    "name": "Przejścia dachowe",
+    "parentId": 2,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 20,
+    "name": "Nagrzewnice powietrza",
+    "parentId": 3,
+    "isActive": true,
+    "image": "/images/categories/nagrzewnice.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Kurtyny powietrzne",
+    "parentId": 3,
+    "isActive": true,
+    "image": "/images/categories/kurtyny.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Grzejniki elektryczne",
+    "parentId": 3,
+    "isActive": true,
+    "image": "/images/categories/grzejniki.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Klimatyzatory",
+    "parentId": 3,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 24,
+    "name": "Pompy ciepła",
+    "parentId": 3,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 25,
+    "name": "Kolektory słoneczne",
+    "parentId": 3,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 26,
+    "name": "Centrale wentylacyjne",
+    "parentId": 4,
+    "isActive": true,
+    "image": "/images/categories/centrale.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Rekuperatory ścienne",
+    "parentId": 4,
+    "isActive": true,
+    "image": "/images/categories/rekuperatory.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Akcesoria rekuperacyjne",
+    "parentId": 4,
+    "isActive": true,
+    "image": "/images/categories/akcesoria-reku.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Filtry do rekuperatorów",
+    "parentId": 4,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 30,
+    "name": "Przewody elastyczne",
+    "parentId": 4,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 31,
+    "name": "Rozdzielacze",
+    "parentId": 4,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 32,
+    "name": "Kable i przewody",
+    "parentId": 5,
+    "isActive": true,
+    "image": "/images/categories/kable.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Aparatura modułowa",
+    "parentId": 5,
+    "isActive": true,
+    "image": "/images/categories/aparatura.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Rozdzielnice elektryczne",
+    "parentId": 5,
+    "isActive": true,
+    "image": "/images/categories/rozdzielnice.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Gniazda i wyłączniki",
+    "parentId": 5,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 36,
+    "name": "Oświetlenie LED",
+    "parentId": 5,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  },
+  {
+    "id": 37,
+    "name": "Zabezpieczenia przepięciowe",
+    "parentId": 5,
+    "isActive": false,
+    "image": "/images/placeholder-cat.png"
+  }
+]

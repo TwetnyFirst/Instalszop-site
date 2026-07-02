@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "slug": "wentylator-kanalowy-jettec",
+    "name": "Wentylator kanałowy JETTEC",
+    "title": "Wentylator kanałowy JETTEC o wysokiej wydajności",
+    "categoryId": 7,
+    "producerId": 3,
+    "mainImage": "/images/products/jettec.jpg",
+    "parameters": [
+      "Wysoka sprawność aerodynamiczna i ciśnienie statyczne",
+      "Obudowa wykonana z blachy aluminiowej odpornej na korozję",
+      "Silnik z wirującym stojanem (IP54) z zabezpieczeniem termicznym",
+      "Regulacja prędkości obrotowej za pomocą regulatorów tyrystorowych lub transformatorowych",
+      "Klasa izolacji uzwojenia silnika: F",
+      "Wirnik z łopatkami wygiętymi do tyłu typu diagonalnego"
+    ],
+    "description": "Profesjonalny wentylator kanałowy JETTEC został zaprojektowany z myślą o systemach wentylacyjnych wymagających wysokiego natężenia przepływu powietrza przy jednoczesnym zachowaniu relatywnie wysokiego ciśnienia statyczного i niskiego poziomu hałasu. Specjalnie ukształtowany diagonalny wirnik zapewnia doskonałe parametry przepływowe. Urządzenie doskonale nadaje się do wentylacji nawiewnej i wywiewnej w biurach, restauracjach, sklepach oraz halach produkcyjnych.",
+    "dimensions": {
+      "schematic": "/images/products/dimensions-placeholder.png",
+      "values": [
+        {"param": "Średnica wlotu (D)", "val": "250 mm"},
+        {"param": "Długość obudowy (L)", "val": "340 mm"},
+        {"param": "Szerokość całkowita (H)", "val": "285 mm"},
+        {"param": "Masa wariantu bazowego", "val": "6.8 kg"}
+      ]
+    },
+    "downloads": [
+      {"name": "Karta katalogowa serii JETTEC (PDF)", "url": "/downloads/jettec-karta-katalogowa.pdf", "size": "1.4 MB"},
+      {"name": "Instrukcja montażu i eksploatacji (PDF)", "url": "/downloads/jettec-instrukcja-obslugi.pdf", "size": "2.8 MB"},
+      {"name": "Deklaracja zgodności CE (PDF)", "url": "/downloads/jettec-deklaracja.pdf", "size": "340 KB"}
+    ],
+    "variants": [
+      {
+        "sku": "JETTEC 250/1600S",
+        "srednica": 250,
+        "price": 852.85,
+        "specs": {
+          "wydajnosc": "1600 m3/h",
+          "glosnosc": "42 dB(A)/3m",
+          "moc": "120 W"
+        }
+      },
+      {
+        "sku": "JETTEC 250/1800T",
+        "srednica": 250,
+        "price": 920.00,
+        "specs": {
+          "wydajnosc": "1800 m3/h",
+          "glosnosc": "44 dB(A)/3m",
+          "moc": "145 W"
+        }
+      },
+      {
+        "sku": "JETTEC 250/2000S",
+        "srednica": 250,
+        "price": 975.00,
+        "specs": {
+          "wydajnosc": "2000 m3/h",
+          "glosnosc": "46 dB(A)/3m",
+          "moc": "170 W"
+        }
+      },
+      {
+        "sku": "JETTEC 280/2100S",
+        "srednica": 280,
+        "price": 1100.50,
+        "specs": {
+          "wydajnosc": "2100 m3/h",
+          "glosnosc": "45 dB(A)/3m",
+          "moc": "190 W"
+        }
+      },
+      {
+        "sku": "JETTEC 280/2300T",
+        "srednica": 280,
+        "price": 1180.00,
+        "specs": {
+          "wydajnosc": "2300 m3/h",
+          "glosnosc": "47 dB(A)/3m",
+          "moc": "210 W"
+        }
+      },
+      {
+        "sku": "JETTEC 280/2500S",
+        "srednica": 280,
+        "price": 1250.00,
+        "specs": {
+          "wydajnosc": "2500 m3/h",
+          "glosnosc": "49 dB(A)/3m",
+          "moc": "240 W"
+        }
+      },
+      {
+        "sku": "JETTEC 315/3100S",
+        "srednica": 315,
+        "price": 1450.00,
+        "specs": {
+          "wydajnosc": "3100 m3/h",
+          "glosnosc": "48 dB(A)/3m",
+          "moc": "290 W"
+        }
+      },
+      {
+        "sku": "JETTEC 315/3500T",
+        "srednica": 315,
+        "price": 1530.00,
+        "specs": {
+          "wydajnosc": "3500 m3/h",
+          "glosnosc": "50 dB(A)/3m",
+          "moc": "330 W"
+        }
+      },
+      {
+        "sku": "JETTEC 315/3800T",
+        "srednica": 315,
+        "price": 1610.00,
+        "specs": {
+          "wydajnosc": "3800 m3/h",
+          "glosnosc": "52 dB(A)/3m",
+          "moc": "370 W"
+        }
+      },
+      {
+        "sku": "JETTEC 355/4200S",
+        "srednica": 355,
+        "price": 1850.00,
+        "specs": {
+          "wydajnosc": "4200 m3/h",
+          "glosnosc": "51 dB(A)/3m",
+          "moc": "420 W"
+        }
+      },
+      {
+        "sku": "JETTEC 355/4600T",
+        "srednica": 355,
+        "price": 1950.00,
+        "specs": {
+          "wydajnosc": "4600 m3/h",
+          "glosnosc": "53 dB(A)/3m",
+          "moc": "470 W"
+        }
+      },
+      {
+        "sku": "JETTEC 355/5000S",
+        "srednica": 355,
+        "price": 2080.00,
+        "specs": {
+          "wydajnosc": "5000 m3/h",
+          "glosnosc": "55 dB(A)/3m",
+          "moc": "530 W"
+        }
+      },
+      {
+        "sku": "JETTEC 400/5500S",
+        "srednica": 400,
+        "price": 2300.00,
+        "specs": {
+          "wydajnosc": "5500 m3/h",
+          "glosnosc": "54 dB(A)/3m",
+          "moc": "610 W"
+        }
+      },
+      {
+        "sku": "JETTEC 400/6000T",
+        "srednica": 400,
+        "price": 2420.00,
+        "specs": {
+          "wydajnosc": "6000 m3/h",
+          "glosnosc": "56 dB(A)/3m",
+          "moc": "680 W"
+        }
+      },
+      {
+        "sku": "JETTEC 400/6500T",
+        "srednica": 400,
+        "price": 2550.00,
+        "specs": {
+          "wydajnosc": "6500 m3/h",
+          "glosnosc": "58 dB(A)/3m",
+          "moc": "750 W"
+        }
+      },
+      {
+        "sku": "JETTEC 450/7200S",
+        "srednica": 450,
+        "price": 2900.00,
+        "specs": {
+          "wydajnosc": "7200 m3/h",
+          "glosnosc": "57 dB(A)/3m",
+          "moc": "850 W"
+        }
+      },
+      {
+        "sku": "JETTEC 450/8000T",
+        "srednica": 450,
+        "price": 3050.00,
+        "specs": {
+          "wydajnosc": "8000 m3/h",
+          "glosnosc": "59 dB(A)/3m",
+          "moc": "960 W"
+        }
+      },
+      {
+        "sku": "JETTEC 500/9800S",
+        "srednica": 500,
+        "price": 3700.00,
+        "specs": {
+          "wydajnosc": "9800 m3/h",
+          "glosnosc": "60 dB(A)/3m",
+          "moc": "1150 W"
+        }
+      },
+      {
+        "sku": "JETTEC 500/10500T",
+        "srednica": 500,
+        "price": 3880.00,
+        "specs": {
+          "wydajnosc": "10500 m3/h",
+          "glosnosc": "62 dB(A)/3m",
+          "moc": "1280 W"
+        }
+      },
+      {
+        "sku": "JETTEC 560/12500S",
+        "srednica": 560,
+        "price": 4600.00,
+        "specs": {
+          "wydajnosc": "12500 m3/h",
+          "glosnosc": "63 dB(A)/3m",
+          "moc": "1500 W"
+        }
+      },
+      {
+        "sku": "JETTEC 560/13200T",
+        "srednica": 560,
+        "price": 4850.00,
+        "specs": {
+          "wydajnosc": "13200 m3/h",
+          "glosnosc": "65 dB(A)/3m",
+          "moc": "1650 W"
+        }
+      },
+      {
+        "sku": "JETTEC 630/16500S",
+        "srednica": 630,
+        "price": 5900.00,
+        "specs": {
+          "wydajnosc": "16500 m3/h",
+          "glosnosc": "66 dB(A)/3m",
+          "moc": "2100 W"
+        }
+      },
+      {
+        "sku": "JETTEC 710/22600T",
+        "srednica": 710,
+        "price": 8250.00,
+        "specs": {
+          "wydajnosc": "22600 m3/h",
+          "glosnosc": "70 dB(A)/3m",
+          "moc": "3000 W"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "wentylator-kanalowy-vents-tt",
+    "name": "Wentylator kanałowy Vents TT",
+    "title": "Wentylator kanałowy Vents TT z dwubiegowym silnikiem",
+    "categoryId": 7,
+    "producerId": 1,
+    "mainImage": "/images/products/vents-tt-100.jpg",
+    "variants": [
+      {
+        "sku": "VENTS-TT-100",
+        "srednica": 100,
+        "price": 180.00,
+        "specs": {
+          "wydajnosc": "187 m3/h",
+          "glosnosc": "35 dB(A)/3m",
+          "moc": "33 W"
+        }
+      },
+      {
+        "sku": "VENTS-TT-125",
+        "srednica": 125,
+        "price": 220.00,
+        "specs": {
+          "wydajnosc": "280 m3/h",
+          "glosnosc": "37 dB(A)/3m",
+          "moc": "37 W"
+        }
+      },
+      {
+        "sku": "VENTS-TT-150",
+        "srednica": 150,
+        "price": 290.00,
+        "specs": {
+          "wydajnosc": "520 m3/h",
+          "glosnosc": "44 dB(A)/3m",
+          "moc": "60 W"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "wentylator-kanalowy-systemair-k-ec",
+    "name": "Wentylator kanałowy Systemair K EC",
+    "title": "Wentylator kanałowy okrągły Systemair K EC o wysokiej sprawności",
+    "categoryId": 7,
+    "producerId": 2,
+    "mainImage": "/images/products/systemair-k-100.jpg",
+    "variants": [
+      {
+        "sku": "SYS-K-100-EC",
+        "srednica": 100,
+        "price": 850.00,
+        "specs": {
+          "wydajnosc": "320 m3/h",
+          "glosnosc": "41 dB(A)/3m",
+          "moc": "58 W"
+        }
+      },
+      {
+        "sku": "SYS-K-125-EC",
+        "srednica": 125,
+        "price": 980.00,
+        "specs": {
+          "wydajnosc": "480 m3/h",
+          "glosnosc": "43 dB(A)/3m",
+          "moc": "82 W"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "wentylator-kanalowy-harmann-ml",
+    "name": "Wentylator kanałowy Harmann ML",
+    "title": "Wentylator kanałowy o przepływie mieszanym Harmann ML",
+    "categoryId": 7,
+    "producerId": 3,
+    "mainImage": "/images/products/harmann-ml-100.jpg",
+    "variants": [
+      {
+        "sku": "HAR-ML-100/250",
+        "srednica": 100,
+        "price": 320.00,
+        "specs": {
+          "wydajnosc": "250 m3/h",
+          "glosnosc": "31 dB(A)/3m",
+          "moc": "25 W"
+        }
+      },
+      {
+        "sku": "HAR-ML-125/350",
+        "srednica": 125,
+        "price": 390.00,
+        "specs": {
+          "wydajnosc": "350 m3/h",
+          "glosnosc": "33 dB(A)/3m",
+          "moc": "30 W"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "wentylator-lazienkowy-awenta-escudo",
+    "name": "Wentylator łazienkowy Awenta Escudo",
+    "title": "Wentylator ścienny dekoracyjny Awenta Escudo",
+    "categoryId": 6,
+    "producerId": 4,
+    "mainImage": "/images/products/awenta-escudo-100.jpg",
+    "variants": [
+      {
+        "sku": "AW-ESC-100",
+        "srednica": 100,
+        "price": 95.00,
+        "specs": {
+          "wydajnosc": "95 m3/h",
+          "glosnosc": "26 dB(A)/3m",
+          "moc": "13 W"
+        }
+      },
+      {
+        "sku": "AW-ESC-125",
+        "srednica": 125,
+        "price": 120.00,
+        "specs": {
+          "wydajnosc": "145 m3/h",
+          "glosnosc": "32 dB(A)/3m",
+          "moc": "19 W"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "centrala-wentylacyjna-systemair-save-vtr",
+    "name": "Centrala wentylacyjna Systemair SAVE VTR",
+    "title": "Centrala rekuperacyjna Systemair SAVE VTR z odzyskiem ciepła",
+    "categoryId": 13,
+    "producerId": 2,
+    "mainImage": "/images/products/systemair-save-150.jpg",
+    "variants": [
+      {
+        "sku": "SYS-SAVE-150",
+        "srednica": 150,
+        "price": 7200.00,
+        "specs": {
+          "wydajnosc": "350 m3/h",
+          "glosnosc": "39 dB(A)/3m",
+          "moc": "176 W",
+          "odzysk": "do 90%",
+          "filtry": "F7/ePM1 60%"
+        }
+      },
+      {
+        "sku": "SYS-SAVE-250",
+        "srednica": 250,
+        "price": 8900.00,
+        "specs": {
+          "wydajnosc": "550 m3/h",
+          "glosnosc": "44 dB(A)/3m",
+          "moc": "240 W",
+          "odzysk": "do 92%",
+          "filtry": "F7/ePM1 60%"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "rekuperator-pokojowy-vents-micra",
+    "name": "Rekuperator pokojowy Vents Micra",
+    "title": "Jednorurowy rekuperator ścienny Vents Micra",
+    "categoryId": 14,
+    "producerId": 1,
+    "mainImage": "/images/products/vents-micra-150.jpg",
+    "variants": [
+      {
+        "sku": "VENTS-MICRA-150",
+        "srednica": 150,
+        "price": 2890.00,
+        "specs": {
+          "wydajnosc": "150 m3/h",
+          "glosnosc": "30 dB(A)/3m",
+          "moc": "48 W",
+          "odzysk": "do 85%",
+          "filtry": "G4"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "kratka-wentylacyjna-awenta-t",
+    "name": "Kratka wentylacyjna Awenta T",
+    "title": "Klasyczna kratka wentylacyjna ścienno-sufitowa Awenta T",
+    "categoryId": 8,
+    "producerId": 4,
+    "mainImage": "/images/products/awenta-t92.jpg",
+    "variants": [
+      {
+        "sku": "AW-T92-100",
+        "srednica": 100,
+        "price": 15.00,
+        "specs": {
+          "material": "Tworzywo ABS",
+          "kolor": "Biały",
+          "regulacja": "Brak"
+        }
+      },
+      {
+        "sku": "AW-T92-125",
+        "srednica": 125,
+        "price": 18.00,
+        "specs": {
+          "material": "Tworzywo ABS",
+          "kolor": "Biały",
+          "regulacja": "Brak"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "anemostat-wywiewny-systemair-eff",
+    "name": "Anemostat wywiewny Systemair EFF",
+    "title": "Stalowy anemostat zawór wywiewny Systemair EFF",
+    "categoryId": 8,
+    "producerId": 2,
+    "mainImage": "/images/products/systemair-eff-100.jpg",
+    "variants": [
+      {
+        "sku": "SYS-EFF-100",
+        "srednica": 100,
+        "price": 35.00,
+        "specs": {
+          "material": "Stal malowana",
+          "kolor": "Biały (RAL 9010)",
+          "regulacja": "Płynna"
+        }
+      },
+      {
+        "sku": "SYS-EFF-125",
+        "srednica": 125,
+        "price": 42.00,
+        "specs": {
+          "material": "Stal malowana",
+          "kolor": "Biały (RAL 9010)",
+          "regulacja": "Płynna"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "wentylator-promieniowy-harmann-centri",
+    "name": "Wentylator promieniowy Harmann Centri",
+    "title": "Wentylator promieniowy promieniowo-osiowy Harmann Centri",
+    "categoryId": 7,
+    "producerId": 3,
+    "mainImage": "/images/products/harmann-centri-100.jpg",
+    "variants": [
+      {
+        "sku": "HAR-CENTRI-100",
+        "srednica": 100,
+        "price": 410.00,
+        "specs": {
+          "wydajnosc": "290 m3/h",
+          "glosnosc": "39 dB(A)/3m",
+          "moc": "45 W"
+        }
+      },
+      {
+        "sku": "HAR-CENTRI-125",
+        "srednica": 125,
+        "price": 490.00,
+        "specs": {
+          "wydajnosc": "380 m3/h",
+          "glosnosc": "41 dB(A)/3m",
+          "moc": "52 W"
+        }
+      }
+    ]
+  }
+]

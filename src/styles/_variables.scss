@@ -1,0 +1,23 @@
+// Typography
+$font-primary: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+// Colors (Mapped from CSS variables defined in :root)
+$color-primary: var(--primary-color, #2669B7);
+$color-primary-dark: var(--hover-color, #1d528f);
+$color-secondary: #0f172a; // slate-900
+$color-background: #f8fafc; // slate-50
+$color-card: #ffffff;
+$color-border: #e2e8f0; // slate-200
+$color-text: #334155; // slate-700
+$color-text-light: #64748b; // slate-500
+
+// Spacing
+$spacing-xs: 0.25rem;
+$spacing-sm: 0.5rem;
+$spacing-md: 1rem;
+$spacing-lg: 1.5rem;
+$spacing-xl: 2rem;
+
+// Breakpoints
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;

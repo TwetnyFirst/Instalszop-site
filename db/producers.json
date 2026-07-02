@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Vents",
+    "logo": "/images/producers/vents-logo.png"
+  },
+  {
+    "id": 2,
+    "name": "Systemair",
+    "logo": "/images/producers/systemair-logo.png"
+  },
+  {
+    "id": 3,
+    "name": "Harmann",
+    "logo": "/images/producers/harmann-logo.png"
+  },
+  {
+    "id": 4,
+    "name": "Awenta",
+    "logo": "/images/producers/awenta-logo.png"
+  }
+]
